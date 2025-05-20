@@ -70,3 +70,10 @@ HealthGuard AI is intended for informational purposes only and is not a substitu
 
 - Version: 1.1.0
 - Developed by the HealthGuard AI Team
+
+---
+
+## Live Demo and Acknowledgements
+
+- Live demo available at: [https://health-guard-ai.streamlit.app/](https://health-guard-ai.streamlit.app/)
+- Special thanks to [Anvesha137](https://github.com/Anvesha137) for helping to build this project.
